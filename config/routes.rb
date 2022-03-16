@@ -5,4 +5,5 @@ Rails.application.routes.draw do
   # root "articles#index"
 
   get "/contact1" => "contacts#first_contact"
+  post "/contacts" => "contacts#create"
 end
