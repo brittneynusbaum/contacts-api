@@ -11,5 +11,5 @@ content-type: application/json
   "phone_number": "",
   "latitude": "",
   "longitude": "",
-  "address": "Paris"
+  "address": "Vacaville, CA"
 }
