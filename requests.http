@@ -2,13 +2,4 @@ http://localhost:3000/contact1
 
 ### create
 POST http://localhost:3000/contacts
-content-type: application/json
-
-{
-  "first_name": " ",
-  "last_name": "",
-  "email": "",
-  "phoner_number": "",
-  "latitude": "",
-  "longitude": ""
-}
+# content-type: application/json
